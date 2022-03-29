@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Statue of Liberty",
+        "address": "New York, NY 10004",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3025.3063874233203!2d-74.04668908459573!3d40.68924937933427!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25090129c363d%3A0x40c6a5770d25022b!2sStatue%20of%20Liberty!5e0!3m2!1sen!2sus!4v1647894972706!5m2!1sen!2sus"
+    },
+
+    {
+        "name": "Empire State Building",
+        "address": "20 W 34th St, New York, NY 10001",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.6175407966884!2d-73.987853084594!3d40.74844047932787!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9b3117469%3A0xd134e199a405a163!2sEmpire%20State%20Building!5e0!3m2!1sen!2sus!4v1647895086538!5m2!1sen!2sus"
+    },
+
+    {
+        "name": "Brooklyn Bridge",
+        "address": "Brooklyn Bridge, New York, NY 10038",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.5544491638916!2d-73.99816223438881!3d40.705809379332564!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a2343ce7b2b%3A0x2526ddba7abd465c!2sBrooklyn%20Bridge!5e0!3m2!1sen!2sus!4v1647895174110!5m2!1sen!2sus"
+    },
+
+    {
+        "name": "The National September 11 Memorial",
+        "address": "180 Greenwich St, New York, NY 10007",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.2998726311316!2d-74.01466728438868!3d40.71141467933206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a1b6d68f149%3A0xe89c6b40ebde4e7c!2sThe%20National%20September%2011%20Memorial%20Museum!5e0!3m2!1sen!2sus!4v1647895254307!5m2!1sen!2sus" 
+    },
+
+    {
+        "name": "Time Square",
+        "address": "Manhattan, NY 10036",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.184133389618!2d-73.98773128438735!3d40.75797467932689!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes%20Square!5e0!3m2!1sen!2sus!4v1647895317534!5m2!1sen!2sus" 
+    },
+
+    {
+        "name": "Central Park",
+        "address": "New York, NY",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3021.1270981257326!2d-73.9687024843868!3d40.781219879324354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2589a018531e3%3A0xb9df1f7387a94119!2sCentral%20Park!5e0!3m2!1sen!2sus!4v1647895374234!5m2!1sen!2sus"
+    }
+]
